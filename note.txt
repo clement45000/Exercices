@@ -4,3 +4,4 @@ A.Module utiliser avec nodeJs
 B.Fonctions vu dans le cour.
 1.Math.pow() => permet de calculer la puissance d'un nombre argument 1 la puissancen argument 2 le nombre en question
 2.typeof() => permet d'avoir le type d'une variable. Elle prend un paramètre la variable souhaitez.
+3.isNan() => permet de savoir la variable n'est pas un chiffre, prend en argument la variable que l'on a besoin de rechercher
