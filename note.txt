@@ -1,5 +1,6 @@
 A.Module utiliser avec nodeJs
-1.readline-sync => permet de saisir des informations
+1.readline-sync => permet de saisir des informations (npm install readline-sync)
+2.fs, File System, permet de gérer les fichier (Présent par default)
 ----------------------------
 B.Fonctions vu dans le cour.
 1.Math.pow() => permet de calculer la puissance d'un nombre argument 1 la puissancen argument 2 le nombre en question
@@ -8,4 +9,6 @@ B.Fonctions vu dans le cour.
 4.Math.floor() => permet d'arrondir un chiffre à virgule
 5.Math.random() => Permet de générer un chiffre flottant aléatoire entre 0 et 1 mais que 1 est exclus.
 6.sort() => permet de trier un tableau de nombre par exemple
+7.JSON.stringify() => Permet de changer un objet json en chaîne de caractère
+8.push() => Ajoute un element dans un tableau
 ----------------------------------------------------------
